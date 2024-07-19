@@ -3,7 +3,7 @@
 <h3> About me </h3>
 
 - 🔭 I’m currently working on fixing code errors :rofl:
-- 💬 Ask me anything about Javascript / Typescript / React / Node.js / Express / Flutter / Angular
+- 💬 Ask me anything about Javascript / Typescript / React / Node.js / Express / Flutter / Angular / Next.js / Nest.js / Vite
 - 📫 How to reach me: [viniciusemog@hotmail.com](mailto:viniciusemog@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/viniciusgbs/).
 - ⚡ Fun fact: I'm a night person, cooking / gaming lover, and an eternal fitness wannabe :joy:
 
